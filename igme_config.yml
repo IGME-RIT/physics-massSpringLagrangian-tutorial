@@ -1,0 +1,16 @@
+title: Mass Spring Lagrangian
+author:
+  name: Gabriel Ortega
+  email:
+  github:
+description: This is a simulation of simple mass spring system using Langrangian dynamics.
+language: C++
+image:
+  icon: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+  banner: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+tags:
+  - C++
+  - Physics
+  - Lagrangian Dynamics
+extra_resources:
+connections:
